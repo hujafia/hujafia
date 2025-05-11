@@ -13,7 +13,7 @@ I am passionate about continuous learning and innovation in analytics, always ex
 
 🚀 Let’s collaborate and turn data into impactful insights!
 
-Skills:  📊 MS Excel  ⚡ Power BI  🗄️ SQL   🐍 Python
+Skills:  📊 MS Excel  ⚡ Power BI  🗄️ SQL   🐍 Python (Numpy, Pandas, Matplotlib, Seaborn) 📊Statistics
 
 - 🌱 I’m currently learning 📈 Statistics 
 - 👯 I’m looking to collaborate on Github 
