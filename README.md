@@ -1,6 +1,7 @@
 ### Hi there 👋, MD HUJAIFA 
 #### 🚀 Data Analyst
-![🚀 Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQFLZ8lIwxukbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734195622692?e=1747872000&v=beta&t=30TBSofQdo9nS2lNK72AX_5mt1Xrkyp7-5GOsYDr0Vs)
+![🚀 Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQFc5StmPg3y9Q/profile-displaybackgroundimage-shrink_350_1400/B56Za_SOY6H0AY-/0/1746965949352?e=1752710400&v=beta&t=kJlv79RzNO6zXLYt_FoT0B1xOhQEJkmzF2cybPlSEmU
+)
 
 Welcome to my GitHub! I am a Data Analyst with a strong background in data visualization, automation, and analytics. My expertise lies in leveraging MS Excel, Power BI, SQL, and Python to transform raw data into actionable insights that drive business decisions.
 
